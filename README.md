@@ -1,4 +1,4 @@
-# aou-claude-setup
+# aou-setup
 
 One command that gets an *All of Us* Researcher Workbench (Verily Workbench) JupyterLab app ready
 for analysis, and teaches Claude Code how this environment works.
