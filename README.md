@@ -11,7 +11,7 @@ Workbench CLI at run time, so the same repo works in any AoU workspace with no e
 From a JupyterLab terminal in your workspace:
 
 ```bash
-git clone <this-repo-url> ~/repos/aou-claude-setup
+git clone https://github.com/rashidalabri/aou-setup.git ~/repos/aou-claude-setup
 cd ~/repos/aou-claude-setup
 ./setup.sh
 source ~/.bashrc
