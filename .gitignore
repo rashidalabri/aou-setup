@@ -1,0 +1,14 @@
+# Never commit participant data or generated, workspace-specific files.
+*.csv
+*.tsv
+*.parquet
+*.vcf*
+*.bgz
+*.bed
+*.bim
+*.fam
+*.log
+*.ipynb_checkpoints/
+__pycache__/
+.env
+env.list
